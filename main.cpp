@@ -11,6 +11,7 @@ DigitalOut led1(LED1);
 DigitalOut led2(LED2);
 =======
 DigitalOut led3(LED3);
+//bruh
 >>>>>>> 60184d9ee4a505babdc111ff0c1c41f3121072ff
 #define SLEEP_TIME                  500 // (msec)
 #define PRINT_AFTER_N_LOOPS         20
